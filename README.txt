@@ -1,0 +1,1 @@
+These are the practice problems from the course I took called "Introduction to computer cience with Python" from USP College - Brazil.
